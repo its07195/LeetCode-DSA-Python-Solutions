@@ -10,3 +10,5 @@
 |[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[1](https://github.com/its07195/LeetCode-DSA-Python-Solutions/blob/main/Arrays%20and%20Hashing/1.py)|
 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|[14](https://github.com/its07195/LeetCode-DSA-Python-Solutions/blob/main/Arrays%20and%20Hashing/14.py)|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|49|
+|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|Easy|[290](https://github.com/its07195/LeetCode-DSA-Python-Solutions/blob/main/Arrays%20and%20Hashing/290.py)|
+|[Remove Element](https://leetcode.com/problems/remove-element/description/)|Easy|27|
